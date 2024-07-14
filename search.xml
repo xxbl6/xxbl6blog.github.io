@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Spring</title>
+      <link href="/2024/07/14/Spring/"/>
+      <url>/2024/07/14/Spring/</url>
+      
+        <content type="html"><![CDATA[<p>##常见bug<br>1、@Data注解没有生成getter&#x2F;setter方法<br>    settings中，从Plugins中搜索lombok插件并install，重启idea即可。  </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>第一篇博客--使用指南</title>
       <link href="/2024/07/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
       <url>/2024/07/09/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
@@ -21,9 +46,21 @@
       <link href="/2024/07/09/Java%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
       <url>/2024/07/09/Java%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>##JVM相关<br>    体系结构：<br>    <img src="https://raw.githubusercontent.com/xxbl6/PicUplroader/main/img/Snipaste_2024-07-14_20-24-30.jpg"></p>]]></content>
       
       
+      <categories>
+          
+          <category> Java </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+        </tags>
       
     </entry>
     

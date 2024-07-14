@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-07-09T09:51:07.016Z</updated>
+  <updated>2024-07-14T12:29:02.010Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spring</title>
+    <link href="http://example.com/2024/07/14/Spring/"/>
+    <id>http://example.com/2024/07/14/Spring/</id>
+    <published>2024-07-14T12:27:54.000Z</published>
+    <updated>2024-07-14T12:29:02.010Z</updated>
+    
+    <content type="html"><![CDATA[<p>##常见bug<br>1、@Data注解没有生成getter&#x2F;setter方法<br>    settings中，从Plugins中搜索lombok插件并install，重启idea即可。  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;##常见bug&lt;br&gt;1、@Data注解没有生成getter&amp;#x2F;setter方法&lt;br&gt;    settings中，从Plugins中搜索lombok插件并install，重启idea即可。  &lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="http://example.com/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>第一篇博客--使用指南</title>
@@ -34,11 +59,22 @@
     <link href="http://example.com/2024/07/09/Java%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
     <id>http://example.com/2024/07/09/Java%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</id>
     <published>2024-07-09T09:49:51.000Z</published>
-    <updated>2024-07-09T09:49:51.556Z</updated>
+    <updated>2024-07-14T12:27:14.962Z</updated>
+    
+    <content type="html"><![CDATA[<p>##JVM相关<br>    体系结构：<br>    <img src="https://raw.githubusercontent.com/xxbl6/PicUplroader/main/img/Snipaste_2024-07-14_20-24-30.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;##JVM相关&lt;br&gt;    体系结构：&lt;br&gt;    &lt;img src=&quot;https://raw.githubusercontent.com/xxbl6/PicUplroader/main/img/Snipaste_2024-07-14_20-24-30.jpg&quot;&gt;&lt;/p</summary>
+      
     
     
     
+    <category term="Java" scheme="http://example.com/categories/Java/"/>
     
+    
+    <category term="Java" scheme="http://example.com/tags/Java/"/>
     
   </entry>
   
